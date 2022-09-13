@@ -28,8 +28,5 @@ app.get('/about', (req, res) => {
 
 //Future Route
 
-const PORT = 4000
 
-app.listen(PORT, () => {
-    console.log(`listening on port ${PORT}`)
-})
+app.listen(4000);
