@@ -1,0 +1,14 @@
+[
+    {
+      "name": "War Card Game",
+      "live": "https://vvela2022.github.io/Classic-War-Browser-Game/",
+      "git": "https://github.com/vvela2022/Classic-War-Browser-Game",
+      "image": "https://i.imgur.com/wkiAout.png"
+    },
+    {
+      "name": "LandPost",
+      "live": "https://landpost.herokuapp.com/blog",
+      "git": "https://github.com/vvela2022/GA-Project-2",
+      "image": "https://i.imgur.com/iNnkjJx.png"
+    }
+  ]
